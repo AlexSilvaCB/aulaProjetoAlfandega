@@ -1,4 +1,4 @@
-package entities.product;
+package product.customs;
 
 public class ImportProduct extends Product{
 

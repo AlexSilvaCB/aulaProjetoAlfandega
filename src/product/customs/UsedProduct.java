@@ -1,4 +1,4 @@
-package entities.product;
+package product.customs;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
